@@ -12,6 +12,8 @@ v = cv2.VideoCapture("your video link")
 
 
 And link for the mediapipe is https://google.github.io/mediapipe/solutions/face_detection.html 
+![image](https://user-images.githubusercontent.com/46403000/188640102-10398259-e5f6-4a72-bf84-ea24a7cbd058.png)
+
 
 
 
